@@ -14,8 +14,6 @@ A clean and user-friendly registration page built with **HTML5** and **CSS3**. T
 
 ## 🚀 How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://muhammadzaid-kh.github.io/simple-signup-form-html-css/
 2. Open `index.html` in any modern web browser.
 
-## 📸 Preview
-(Yahan aap apne project ka screenshot add kar sakte hain)
