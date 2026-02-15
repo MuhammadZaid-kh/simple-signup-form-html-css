@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thank you</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        #thank{
+            border: 1px solid black;
+            border-radius: 12px;
+            height: 400px;
+            text-align: center;
+        }
+        a{
+            
+            text-decoration: none;
+            color: white;
+        }
+        button {
+            margin: 6px auto;
+   
+   display: block; 
+   background-color: #8083ff; 
+   
+   padding: 14px;
+   border-radius: 6px;
+   border: 0px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="thank">
+        <h1>Thank You!</h1>
+        <img src="tick.png" width="50">
+        <p>This is a example of form, we are not collect your data. You can retry</p>
+        <button><a href="index.html">Refill Form</a></button>
+    </div>
+</body>
+</html>
